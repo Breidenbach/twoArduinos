@@ -2,7 +2,7 @@
 
 ROS connection of two Arduinos to Raspberry Pi
  
-This repository contains changes I made to make the programs work in my environment.  The orignals and explanations of them are listed at:
+This repository contains changes I made to make the programs work in my environment.  The orignals and explanations of them as created by Dragos Calin are listed at:
  
 https://www.intorobotics.com/how-to-use-rosserial-with-two-arduinos-and-raspberry-pi/
 
